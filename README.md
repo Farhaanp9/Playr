@@ -2,7 +2,12 @@
 
 **AI-powered game generation platform — turn natural language prompts into playable HTML5 games.**
 
-[Live App](https://playrapp.live)
+| Platform | Link |
+|----------|------|
+| 🌐 **Web App** | [playrapp.live](https://playrapp.live) |
+| 📱 **iOS App** | [Download on App Store](https://apps.apple.com/us/app/playr-mini-games-arcade/id6763415021) |
+
+---
 
 ---
 
