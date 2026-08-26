@@ -8,9 +8,10 @@
 
 ## Demo
 
-[![Playr Demo](https://img.youtube.com/vi/QfaNgn0oMiI/maxresdefault.jpg)](https://youtu.be/QfaNgn0oMiI)
-
-*Click the image above to watch the full demo on YouTube.*
+| Mobile Demo | Website Demo |
+|---|---|
+| [![Playr Mobile Demo](https://img.youtube.com/vi/vuCv_rZf_6U/maxresdefault.jpg)](https://youtu.be/vuCv_rZf_6U) | [![Playr Website Demo](https://img.youtube.com/vi/QfaNgn0oMiI/maxresdefault.jpg)](https://youtu.be/QfaNgn0oMiI) |
+| *Watch the mobile app in action* | *Full platform walkthrough* |
 
 ---
 
